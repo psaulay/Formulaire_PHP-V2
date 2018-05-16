@@ -1,0 +1,67 @@
+body {
+    background-image: url(background.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+   /* border: 5px solid lightgreen;*/
+    width: 75%;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 65px;
+    color: white;
+}
+td{
+    border: solid 1px black;
+}
+
+p {
+    color: red;
+}
+p {
+    color: black;
+}
+
+#message {
+    height: 150px;
+}
+
+input {
+    margin: auto;
+    background-color: white;
+}
+
+#submit {
+    background-color: #4CAF50;
+    width: 40%;
+    height: 40px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#submit:hover {
+    background-color: lightgreen;
+    width: 50%;
+    height: 40px;
+    margin-bottom: 5px;
+}
+#submit2 {
+    background-color: #f02f16;
+    width: 40%;
+    height: 40px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#submit2:hover {
+    background-color: #f55e45;
+    width: 50%;
+    height: 40px;
+    margin-bottom: 5px;
+}
